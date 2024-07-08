@@ -1,0 +1,33 @@
+﻿  dllmain.cpp
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(46,39): error C2061: error de sintaxis: identificador 'Behavior'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(50,33): error C2061: error de sintaxis: identificador 'Behavior'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(54,31): error C2061: error de sintaxis: identificador 'Behavior'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(29,9): error C2653: 'Events': no es un nombre de clase o espacio de nombres
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(29,17): error C2065: 'OnTickEvent': identificador no declarado
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(30,13): error C2065: 'Pl0000': identificador no declarado
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(30,21): error C2065: 'player': identificador no declarado
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(30,30): error C2653: 'cGameUIManager': no es un nombre de clase o espacio de nombres
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(30,46): error C2065: 'Instance': identificador no declarado
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(32,17): error C2065: 'player': identificador no declarado
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(34,21): error C2653: 'shared': no es un nombre de clase o espacio de nombres
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(34,29): error C3861: 'IsKeyPressed': no se encontró el identificador
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(35,21): error C2653: 'shared': no es un nombre de clase o espacio de nombres
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(35,29): error C3861: 'IsKeyPressed': no se encontró el identificador
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(36,21): error C2653: 'shared': no es un nombre de clase o espacio de nombres
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(36,29): error C3861: 'IsKeyPressed': no se encontró el identificador
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(38,44): error C2065: 'player': identificador no declarado
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(39,37): error C2065: 'player': identificador no declarado
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(47,22): error C2143: error de sintaxis: falta ')' delante de '__thiscall'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(47,22): error C2059: error de sintaxis: '__thiscall'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(47,90): error C2653: 'shared': no es un nombre de clase o espacio de nombres
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(47,114): error C2059: error de sintaxis: ')'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(51,16): error C2143: error de sintaxis: falta ')' delante de '__thiscall'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(51,16): error C2059: error de sintaxis: '__thiscall'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(51,55): error C2653: 'shared': no es un nombre de clase o espacio de nombres
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(51,79): error C2059: error de sintaxis: ')'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(55,16): error C2143: error de sintaxis: falta ')' delante de '__thiscall'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(55,16): error C2059: error de sintaxis: '__thiscall'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(55,53): error C2653: 'shared': no es un nombre de clase o espacio de nombres
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(55,77): error C2059: error de sintaxis: ')'
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(59,51): error C2653: 'shared': no es un nombre de clase o espacio de nombres
+C:\Users\Renzo\source\repos\Test\Test\dllmain.cpp(59,59): error C2065: 'base': identificador no declarado
